@@ -22,7 +22,9 @@ Here are some ideas to get you started:
   </a>
   <img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
   <img src="https://img.shields.io/badge/Open%20Source-0f172a?style=for-the-badge&logo=opensourceinitiative&logoColor=3DA639" alt="Open Source" />
-  <img src="https://img.shields.io/badge/Cybersecurity-0f172a?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Cybersecurity" />
+  <a href="https://app.hackthebox.com/users/2201142">
+    <img src="https://img.shields.io/badge/Cybersecurity-0f172a?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Cybersecurity" />
+  </a>
 </div>
 
 <br />
