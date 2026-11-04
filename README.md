@@ -14,19 +14,21 @@ README.md appears on your GitHub profile.
 👨‍💻 About me
 I'm a software developer passionate about systems programming, backend engineering, and cybersecurity.
 
-I primarily work with Rust and Go, focusing on building reliable, efficient, and secure software. I'm particularly interested in Linux internals, operating systems, networking, and low-level development.
+I primarily work with Rust and Go, focusing on building reliable, efficient, and secure software. I'm particularly interested in Linux and Windows internals, operating systems, networking, and low-level development.
 
-Currently, I'm exploring eBPF, Linux runtime security, and security tooling, while continuously expanding my knowledge of systems engineering.
+Currently, I'm exploring eBPF, Linux runtime security, Windows Server environments, and security tooling, while continuously expanding my knowledge of systems engineering.
 
 🧰 Tech stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,go,python,c,cpp,bash,linux,docker,kubernetes,git,postgres,neovim,vscode&perline=7&theme=dark" alt="Rust, Go, Python, C, C++, Bash, Linux, Docker, Kubernetes, Git, PostgreSQL, Neovim and VS Code" />
+  <img src="https://skillicons.dev/icons?i=rust,go,python,c,cpp,bash,linux,windows,docker,kubernetes,git,postgres,neovim,vscode&perline=7&theme=dark" alt="Rust, Go, Python, C, C++, Bash, Linux, Windows, Docker, Kubernetes, Git, PostgreSQL, Neovim and VS Code" />
 </div>
 ⚡ Interests
 <div align="center">
   <img src="https://img.shields.io/badge/System%20Programming-1e293b?style=for-the-badge&logo=rust&logoColor=white" alt="System Programming" />
   <img src="https://img.shields.io/badge/Backend-1e293b?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Backend" />
   <img src="https://img.shields.io/badge/Linux%20Internals-1e293b?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux Internals" />
+  <img src="https://img.shields.io/badge/Windows%20Internals-1e293b?style=for-the-badge&logo=windows&logoColor=60a5fa" alt="Windows Internals" />
+  <img src="https://img.shields.io/badge/Windows%20Server-1e293b?style=for-the-badge&logo=windows&logoColor=60a5fa" alt="Windows Server" />
   <img src="https://img.shields.io/badge/Information%20Security-1e293b?style=for-the-badge&logo=shield&logoColor=60a5fa" alt="Information Security" />
 </div>
 🚀 Featured projects
